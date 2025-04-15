@@ -1,6 +1,4 @@
-<!-- Пример README.md для GitHub-профиля -->
 
-<!-- Заголовок и приветствие -->
 <h1 align="center">
   Приветствую всех! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
@@ -17,7 +15,6 @@
 - **Telegram:** [@Maustenok](https://t.me/Maustenok)  
 - **Email:** [sasha_sabiya@list.ru](mailto:sasha_sabiya@list.ru)
 
----
 
 ### *Технологии и инструменты:*
 <p>
